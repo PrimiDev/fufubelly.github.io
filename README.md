@@ -7,6 +7,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75628324510420173
 This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord @fufubelly#0871 and on my twitter @fufubelly.
 I am a map maker, and I also do gfx/renders, although I still have a lot to learn. 
 
+
 whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Past work
