@@ -8,7 +8,7 @@ whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Past work
 Here I will be providing my past work for influence:
 
-![](src)
+![Image](src)
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ hi
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![(src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
