@@ -17,12 +17,9 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75622811975653797
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker Render">
 
-<img src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.JPG" alt=krunker render>
-<style>
-body {
-  background-image: url('https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.JPG');
-}
-</style>
+
+
+
 ```markdown
 
 Syntax highlighted code block
