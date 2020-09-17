@@ -1,3 +1,6 @@
+<img 
+src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
+
 ## Welcome to my website!
 
 
@@ -18,8 +21,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627384993021974
 <img
 src="https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png" alt="krunker render">
 
-<img 
-src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
+
 
 
 
