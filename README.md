@@ -28,17 +28,17 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 Contact Information for any reason:
 
-<b>Discord</b>
+<b>Discord:</b>
 <a href="https://discord.bio/p/fufubelly0871/">fufubelly0871</a>
-Add me on discord!
+||Add me on discord!
 
-<b>Twitter</b>
+<b>Twitter:</b>
 <a href="https://twitter.com/fufubelly/">fufubelly</a>
-Leave a follow!
+||Leave a follow!
 
-<b>Gmail</b>
+<b>Gmail:</b>
 fufubelly5@gmail 
 
-<b>Kunker</b>
+<b>Kunker:</b>
 <a href="https://krunker.io/social.html?p=profile&q=fufubelly">Krunker profile</a>
-Leave a follow if you enjoy my work!
+||Leave a follow if you enjoy my work!
