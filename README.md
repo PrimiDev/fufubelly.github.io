@@ -20,7 +20,7 @@ I am a map maker, and I also do gfx/renders, although I still have a lot to lear
 whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Past work
-Here I will be providing my past work for influence:
+Here I will be providing my past work for influence-
 
 <img src="https://media.discordapp.net/attachments/694626415596798043/756215378681659432/ADkmABEiABEiABEiABEiABNZMgKF6awbOx5EACZAACZAACZAACZAACWweAQqnzXtnHDEJkAAJkAAJkAAJkAAJkMCaCVA4rRk4H0c.png?width=943&height=414" alt="alternatetext">
 
