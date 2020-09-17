@@ -37,4 +37,4 @@ Add me on discord!
 Leave a follow!
 
 <b>Gmail</b>
-fufubelly5@gmail
+fufubelly5@gmail 
