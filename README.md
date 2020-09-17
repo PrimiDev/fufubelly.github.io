@@ -16,7 +16,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75622811975653797
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.png" alt="Krunker Render">
 <img
-src=¨https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png¨ alt=¨krunker render¨>
+src="https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png" alt="krunker render">
 
 
 <img 
