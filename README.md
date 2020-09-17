@@ -26,15 +26,15 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 
 
-COntact Information for any reason-
+Contact Information for any reason-
 
-<b>Discord:
+<b>Discord</b>
 </b><a href="https://discord.bio/p/fufubelly0871/"></a>fufubelly#0871
 Add me on discord!
 
-<b>Twitter:</b>
+<b>Twitter</b>
 <a href="https://twitter.com/fufubelly/">fufubelly</a>
 Leave a follow!
 
-<b>Gmail:</b>
+<b>Gmail</b>
 <i>fufubelly5@gmail</i>
