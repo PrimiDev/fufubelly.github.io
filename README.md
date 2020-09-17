@@ -1,8 +1,6 @@
 ## Welcome to my website!
 
 
-<div style="background-image: url('https://cdn.discordapp.com/attachments/694626415596798043/756236431285813258/Fufubellys_Krunker_Logo.JPG');">
-
 This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord @fufubelly#0871 and on my twitter @fufubelly.
 I am a map maker, and I also do gfx/renders, although I still have a lot to learn. 
 
@@ -15,7 +13,11 @@ Here I will be providing my past work for influence:
 
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756228119756537977/w8peIPkpAwiAAAAABJRU5ErkJggg.png" alt="Krunker Render">
+
+<img 
+src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker Render">
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1 
