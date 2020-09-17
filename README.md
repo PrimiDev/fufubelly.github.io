@@ -26,14 +26,13 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 
 
-
-```markdown
-
 COntact Information for any reason:
 
 <b>Discord:</b>
+
 fufubelly#0871
 <b>Twitter</b>
+
 Twitter:fufubelly
 <b>Gmail</b>
 Gmail:fufubelly5@gmail
