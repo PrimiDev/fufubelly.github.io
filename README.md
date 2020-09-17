@@ -29,12 +29,12 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 COntact Information for any reason-
 
 <b>Discord:</b>
-<i>fufubelly#0871</i>
+<i><a href="https://discord.bio/p/fufubelly0871/">fufubelly#0871</a>fufubelly#0871</i>
 
 
 <b>Twitter</b>
-<i>Twitter:fufubelly</i>
+<i>fufubelly</i>
 
 
 <b>Gmail</b>
-<i>Gmail:fufubelly5@gmail</i>
+<i>fufubelly5@gmail</i>
