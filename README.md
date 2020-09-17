@@ -41,4 +41,4 @@ fufubelly5@gmail
 
 <b>Kunker:</b>
 <a href="https://krunker.io/social.html?p=profile&q=fufubelly">Krunker profile</a>
-||Leave a follow if you enjoy my work!
+||Leave a follow if you´ve enjoyed my work, or are a fan!
