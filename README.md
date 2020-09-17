@@ -1,6 +1,9 @@
 ## Welcome to my website!
 
-<div style="background-image: url('https://cdn.discordapp.com/attachments/694626415596798043/756236431285813258/Fufubellys_Krunker_Logo.JPG');">
+
+  background-image: url('background-image: url('https://cdn.discordapp.com/attachments/694626415596798043/756236431285813258/Fufubellys_Krunker_Logo.JPG');
+}
+</style>
 
 This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord @fufubelly#0871 and on my twitter @fufubelly.
 I am a map maker, and I also do gfx/renders, although I still have a lot to learn. 
