@@ -8,7 +8,7 @@ whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Past work
 Here I will be providing my past work for influence:
 
-![Image](src)
+![https://discord.com/channels/692280884375584780/694626415596798043/756219595269865745](src)
 
 ```markdown
 Syntax highlighted code block
