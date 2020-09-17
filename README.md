@@ -34,7 +34,7 @@ COntact Information for any reason:
 <h5><b># Header 1</b></h5>
 Discord:
 fufubelly#0871
-## Header 2
+<b>## Twitter</b>
 Twitter:fufubelly
 ### Header 3
 Gmail:fufubelly5@gmail
