@@ -14,8 +14,10 @@ Here I will be providing my past work for influence:
 
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.png" alt="Krunker Render">
+
 <img
 src="https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png" alt="krunker render">
+
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
 
