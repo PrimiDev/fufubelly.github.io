@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/PrimiDev/fufubelly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord @fufubelly#0871 and on my twitter @fufubelly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
