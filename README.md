@@ -5,7 +5,7 @@
 
 <p>fufubelly´s commissions</p>
 
-<a href="https://fufubelly.github.io/commissions/"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://fufubelly.github.io/commissions/"><img src="smiley.gif" alt="." style="width:42px;height:42px;"></a>
 
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756283245104201738/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
