@@ -26,7 +26,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 
 
-COntact Information for any reason:
+COntact Information for any reason-
 
 <b>Discord:</b>
 <i><a href="https://discord.bio/p/fufubelly0871/"></a>fufubelly#0871</i>
