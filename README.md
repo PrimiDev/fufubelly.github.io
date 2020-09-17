@@ -4,7 +4,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75628324510420173
 ## Welcome to my website!
 
 
-This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord @fufubelly#0871 and on my twitter @fufubelly.
+This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord  and on my twitter @fufubelly.
 I am a map maker, and I also do gfx/renders, although I still have a lot to learn. 
 
 
@@ -29,30 +29,13 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 ```markdown
 
-Syntax highlighted code block
+COntact Information for any reason:
+
 
 # Header 1 
-hi
+Discord:
+fufubelly#0871
 ## Header 2
+Twitter:fufubelly
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![(src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrimiDev/fufubelly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gmail:fufubelly5@gmail
