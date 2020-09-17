@@ -33,7 +33,7 @@ COntact Information for any reason:
 
 <b>Discord:</b>
 fufubelly#0871
-<b>## Twitter</b>
+<b>Twitter</b>
 Twitter:fufubelly
-### Header 3
+<b>Gmail</b>
 Gmail:fufubelly5@gmail
