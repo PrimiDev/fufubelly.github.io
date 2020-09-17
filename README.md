@@ -1,11 +1,8 @@
 <html>
 <body>
 
-<h2>image as the link</h2>
-
-<p>fufubelly´s commissions</p>
-
 <a href="https://fufubelly.github.io/commissions/"><img src="https://cdn.discordapp.com/attachments/694626415596798043/756283245104201738/Fufubellys_Krunker_Logo.JPG" alt="." style="width:42px;height:42px;"></a>
+
 
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756283245104201738/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
