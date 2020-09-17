@@ -31,8 +31,7 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75627920484833697
 
 COntact Information for any reason:
 
-
-# Header 1 
+# Header 1
 Discord:
 fufubelly#0871
 ## Header 2
