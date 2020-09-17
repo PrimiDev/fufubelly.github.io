@@ -1,3 +1,5 @@
+!doctype
+
 <img 
 src="https://cdn.discordapp.com/attachments/694626415596798043/756270010195902494/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
 
