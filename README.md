@@ -23,11 +23,18 @@ Here I will be providing my past work for influence:
 
 
 <img 
-src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.png" alt="Krunker Render"><img
+src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.png" alt="Krunker Render">
+<img
 src="https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png" alt="krunker render">
 
 
-
+<div class="flex-container">
+  <div><img
+src="https://cdn.discordapp.com/attachments/694626415596798043/756279204848336976/unknown.png" alt="krunker render"></div>
+  <div>
+<img 
+src="https://cdn.discordapp.com/attachments/694626415596798043/756273849930219740/unknown.png" alt="Krunker Render"></div>
+</div>
 
 Contact Information for any reason-
 
