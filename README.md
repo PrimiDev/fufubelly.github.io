@@ -57,7 +57,23 @@ fufubelly5@gmail
 <p>Be <b>bold</b> Training Map for : </p>
 <ul>
 <li>
-<img src="https://media.discordapp.net/attachments/694626415596798043/756215378681659432/ADkmABEiABEiABEiABEiABNZMgKF6awbOx5EACZAACZAACZAACZAACWweAQqnzXtnHDEJkAAJkAAJkAAJkAAJkMCaCVA4rRk4H0c.png?width=943&height=414" alt="alternatetext"></li>
+  <html>
+<head>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<h2>Rounded Images</h2>
+<p>Use the border-radius property to create circled images:</p>
+
+<img src="https://media.discordapp.net/attachments/694626415596798043/756215378681659432/ADkmABEiABEiABEiABEiABNZMgKF6awbOx5EACZAACZAACZAACZAACWweAQqnzXtnHDEJkAAJkAAJkAAJkAAJkMCaCVA4rRk4H0c.png?width=943&height=414" alt="SSL Commission" width="300" height="300">
+
+</body>
+</html>
 <li>The second item; <i>italicize</i> key words</li>
 </ul>
 <p>Improve your image by including an image. </p>
