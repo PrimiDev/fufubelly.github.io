@@ -54,9 +54,10 @@ fufubelly5@gmail
 <!-- The information between the BODY and /BODY tags is displayed.-->
 <body>Past work/Commissions
 <h1>Past Work</h1>
-<p>Be <b>bold</b> in stating your key points. Put them in a list: </p>
+<p>Be <b>bold</b> Training Map for : </p>
 <ul>
-<li>The first item in your list</li>
+<li>
+<img src="https://media.discordapp.net/attachments/694626415596798043/756215378681659432/ADkmABEiABEiABEiABEiABNZMgKF6awbOx5EACZAACZAACZAACZAACWweAQqnzXtnHDEJkAAJkAAJkAAJkAAJkMCaCVA4rRk4H0c.png?width=943&height=414" alt="alternatetext"></li>
 <li>The second item; <i>italicize</i> key words</li>
 </ul>
 <p>Improve your image by including an image. </p>
