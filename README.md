@@ -8,33 +8,17 @@
 src="https://cdn.discordapp.com/attachments/694626415596798043/756283245104201738/Fufubellys_Krunker_Logo.JPG" alt="Krunker pfp">
 
 ## Welcome to my website!
+I am a full-time krunker coach who's goal is to take all the new players absorbed from the steam release and teach them to play professionally. 
 
 
-This website is where I will be accepting commissions and my past work. Feel free to contact me any time via my discord  and on my twitter @fufubelly.
-I am a map maker, and I also do gfx/renders, although I still have a lot to learn. 
 
-
-whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Past work
-Here I will be providing my past work for influence:
+### What I Offer
+Here are some packages. They're mainly for free
 <html>
-<head>
+<head>Starter package (free)
+<body>1,000 Kr, one-on-one discord tutorial, and friends to get you started in the community
 <style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-</head>
-<body>
-
-<h2>Training Map</h2>
-<p>Includes aim training, bhop races, ffa, tdm:</p>
-
-<img src="https://media.discordapp.net/attachments/694626415596798043/756215378681659432/ADkmABEiABEiABEiABEiABNZMgKF6awbOx5EACZAACZAACZAACZAACWweAQqnzXtnHDEJkAAJkAAJkAAJkAAJkMCaCVA4rRk4H0c.png" alt="Training Map" style="width:150px">
+<img src="https://cdn.discordapp.com/attachments/768122231557455885/772869062380355614/unknown.png" alt="Poster1" style="width:150px">
 
 
 
