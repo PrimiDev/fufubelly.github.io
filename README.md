@@ -11,7 +11,6 @@ src="https://cdn.discordapp.com/attachments/694626415596798043/75628324510420173
 I am a full-time krunker coach who's goal is to take all the new players absorbed from the steam release and teach them to play professionally. 
 
 
-
 ### What I Offer
 Here are some packages. They're mainly for free.
 <html>
