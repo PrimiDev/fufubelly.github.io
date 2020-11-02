@@ -13,7 +13,7 @@ I am a full-time krunker coach who's goal is to take all the new players absorbe
 
 
 ### What I Offer
-Here are some packages. They're mainly for free
+Here are some packages. They're mainly for free.
 <html>
 <head>Starter package (free)
 <body>1,000 Kr, one-on-one discord tutorial, and friends to get you started in the community
