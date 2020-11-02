@@ -18,6 +18,7 @@ Here are some packages. They're mainly for free.
 <head>Starter package (free)
 <body>1,000 Kr, one-on-one discord tutorial, and friends to get you started in the community
 <style>
+
 <img src="https://cdn.discordapp.com/attachments/768122231557455885/772869062380355614/unknown.png" alt="Poster1" style="width:150px">
 
 
