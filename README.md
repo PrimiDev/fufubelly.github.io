@@ -1,2 +1,2 @@
-site is down for planned work
+Site is down for planned work
 -fufu
