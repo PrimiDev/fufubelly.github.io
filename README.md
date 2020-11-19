@@ -8,7 +8,7 @@
     <h1>fufubelly's projects</h1>
     <p>Welcome to my site</p>
   </body> 
-<body>Here, you will be able to see my past work to understand what I do.</body> 
+<body>Here, you will be able to see my past work to understand what I do</body> 
 
 <!-- Masthead -->
 <header class="masthead">
