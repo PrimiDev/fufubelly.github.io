@@ -37,7 +37,7 @@ header.masthead {
   background-attachment: scroll;
   background-size: cover;}
 
-</html>
+
 
 Result Size: 1346 x 245
 <!DOCTYPE html>
@@ -65,3 +65,4 @@ body {font-family: "Lato", sans-serif}
     <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
 
+</html>
