@@ -40,7 +40,7 @@ header.masthead {
 
 
 Result Size: 1346 x 245
-<!DOCTYPE html>
+
 <html lang="en">
 <title>fufubelly's website</title>
 <meta charset="UTF-8">
