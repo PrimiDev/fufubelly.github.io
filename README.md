@@ -36,6 +36,5 @@ header.masthead {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;
-}
+  background-size: cover;}
 </html>
