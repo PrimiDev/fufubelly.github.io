@@ -20,7 +20,7 @@
       </div>
       <div class="col-lg-8 align-self-baseline">
         <p class="text-white-75 font-weight-light mb-5">...</p>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More.</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://discord.gg/YWRYqqMcgCt">Discord server for commissions</a>
       </div>
     </div>
   </div>
