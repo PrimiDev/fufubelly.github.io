@@ -29,4 +29,13 @@
   </div>
 </header>
 
+header.masthead {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://purepng.com/public/uploads/large/purepng.com-pineapplepineappleananas-comosuscoalesced-berriespineapples-1701527358188i2ipj.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
 </html>
